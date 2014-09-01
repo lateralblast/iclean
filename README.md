@@ -19,6 +19,13 @@ Planned:
 
 - Check MP3/AAC information and tags to ensure they are correct
 
+License
+-------
+
+This software is licensed as CC-BA (Creative Commons By Attrbution)
+
+http://creativecommons.org/licenses/by/4.0/legalcode
+
 Usage
 -----
 
@@ -123,10 +130,3 @@ Newest:      2.0.1
 Older:       1.9.0
 Deleting file:    /Users/spindler/Music/iTunes/iTunes Media/Mobile Applications/AccuWeather 1.9.0.ipa
 ```
-
-License
--------
-
-This software is licensed as CC-BA (Creative Commons By Attrbution)
-
-http://creativecommons.org/licenses/by/4.0/legalcode
